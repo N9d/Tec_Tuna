@@ -1,5 +1,5 @@
 import wx
-# edit for test github
+# edit for test
 class displaynumber(wx.Frame):
     
     def __init__(self, parent, id):
